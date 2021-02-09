@@ -1,0 +1,22 @@
+{
+  "name": "DraskoSDK",
+  "version": "0.1.0",
+  "summary": "A short description of DraskoSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hdurodola/DraskoSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hdurodola": "durodolahabib043@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hdurodola/DraskoSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DraskoSDK/Classes/**/*"
+}
