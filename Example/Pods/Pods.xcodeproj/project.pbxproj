@@ -388,8 +388,6 @@
 		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				820C3A2D25D32C560054C647 /* caDigitalId.framework */,
-				820C3A2B25D32C490054C647 /* TA_7a2a65da018757c5ac25719332f7312e.framework */,
 				974814B39C0012DECD183BBB91B32103 /* iOS */,
 			);
 			name = Frameworks;
@@ -406,6 +404,8 @@
 		3C9F116475BDA3D8557BFD1EC720D50A /* DraskoSDK */ = {
 			isa = PBXGroup;
 			children = (
+				820C3A2B25D32C490054C647 /* TA_7a2a65da018757c5ac25719332f7312e.framework */,
+				820C3A2D25D32C560054C647 /* caDigitalId.framework */,
 				820C3A4025D32E8B0054C647 /* Source */,
 				A0C09A0EDCD17B3F8BD5F51877200FC9 /* ReplaceMe.swift */,
 				6F04D05035DE7B5B266C352E37B947CE /* Pod */,
