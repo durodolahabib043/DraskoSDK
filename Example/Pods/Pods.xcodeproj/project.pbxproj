@@ -406,7 +406,7 @@
 			children = (
 				820C3A2B25D32C490054C647 /* TA_7a2a65da018757c5ac25719332f7312e.framework */,
 				820C3A2D25D32C560054C647 /* caDigitalId.framework */,
-				820C3A4025D32E8B0054C647 /* Source */,
+				820C3A1225D32BB20054C647 /* Addition.swift */,
 				A0C09A0EDCD17B3F8BD5F51877200FC9 /* ReplaceMe.swift */,
 				6F04D05035DE7B5B266C352E37B947CE /* Pod */,
 				8F98B713B8298E00666259BAA227A860 /* Support Files */,
@@ -508,14 +508,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Nimble";
-			sourceTree = "<group>";
-		};
-		820C3A4025D32E8B0054C647 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				820C3A1225D32BB20054C647 /* Addition.swift */,
-			);
-			path = Source;
 			sourceTree = "<group>";
 		};
 		89EB507C584628BF3624BD0BEAA18A87 /* Support Files */ = {
